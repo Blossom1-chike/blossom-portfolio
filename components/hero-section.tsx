@@ -70,7 +70,7 @@ export function HeroSection() {
           className="transition-all duration-300 hover:scale-110 hover:border-primary hover:shadow-lg hover:shadow-primary/20 bg-transparent"
         >
           <a
-            href="https://blossom-chikezie.com"
+            href="https://blossom-chikezie.me"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Website"
